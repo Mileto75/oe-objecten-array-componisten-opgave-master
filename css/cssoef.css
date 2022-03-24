@@ -1,0 +1,16 @@
+#divFotoKader {
+  width: 250px;
+  height: 350px;
+  border: solid 2px var(--blue);
+  text-align: center;
+  margin: 10px auto;
+}
+#imgFoto {
+  height: 120px;
+}
+#divKnoppen {
+  margin-top: 10px;
+}
+#divFotoNummer {
+  margin-top: 10px;
+}
